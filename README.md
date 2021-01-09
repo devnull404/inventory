@@ -31,4 +31,13 @@ main.SellProducts()
 Para más información sobre cómo utilizarlo en modo inventario, mantenerlo y añadir más funcionalidades, serás capacitado in situ a la hora de trabajar con el sistema, donde aprenderás todo lo necesario para diseñar e implementar un POS.
 
 ## Algunas imágenes del sistema interconectado
+Nuestro equipo trabaja desde SSH para programar el sistema directamente desde un equipo portatil para facilitar el desarrollo y mantenimiento del sistema. 
 
+![alt text](https://github.com/devnull404/inventory/blob/main/assets/System.jpeg)
+**Conexión básica: Laptop -> Raspberry Pi vía SSH:Ethernet.**
+
+![alt text](https://github.com/devnull404/inventory/blob/main/assets/rp.jpeg)
+**Raspberry Pi 4B: último modelo, con UBUNTU 20.04.**
+
+![alt text](https://github.com/devnull404/inventory/blob/main/assets/gun.jpeg)
+**Lector de Barras digital.**
