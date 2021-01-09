@@ -12,7 +12,7 @@ El sistema de Punto de Venta propuesto consta de 5 partes, estas son:
 
 En la siguiente imagen, podemos apreciar cómo están interconectados cada uno:
 
-
+![alt text](https://github.com/devnull404/inventory/blob/main/assets/setup.png)
 
 Para inicializar el sistema de venta en mostrador, es necesario importar la librería a la consola Python, y llamar al método **SellProducts** de la siguiente manera
 
