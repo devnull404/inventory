@@ -33,7 +33,7 @@ Para más información sobre cómo utilizarlo en modo inventario, mantenerlo y a
 ## Algunas imágenes del sistema interconectado
 Nuestro equipo trabaja desde SSH para programar el sistema directamente desde un equipo portatil para facilitar el desarrollo y mantenimiento del sistema. 
 
-![alt text](https://github.com/devnull404/inventory/blob/main/assets/System.jpeg)
+![alt text](https://github.com/devnull404/inventory/blob/main/assets/system.jpeg)
 **Conexión básica: Laptop -> Raspberry Pi vía SSH:Ethernet.**
 
 ![alt text](https://github.com/devnull404/inventory/blob/main/assets/rp.jpeg)
