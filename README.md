@@ -14,9 +14,16 @@ En la siguiente imagen, podemos apreciar cómo están interconectados cada uno:
 
 ![alt text](https://github.com/devnull404/inventory/blob/main/assets/setup.png)
 
+
+## Inizialización del POS
 Para inicializar el sistema de venta en mostrador, es necesario importar la librería a la consola Python, y llamar al método **SellProducts** de la siguiente manera
 
 ```python
 import main
 main.SellProducts()
 ```
+
+Para más información sobre cómo utilizarlo en modo inventario, mantenerlo y añadir más funcionalidades, serás capacitado in situ a la hora de trabajar con el sistema, donde aprenderás todo lo necesario para diseñar e implementar un POS.
+
+## Algunas imágenes del sistema interconectado
+
