@@ -4,7 +4,7 @@ En este repositorio se encuentra alojado el sistema de punto de venta de Abarrot
 # ¿Dónde puedes encontrarnos?
 En el poblado de Hobomó, Campeche, en un horario de 7:00 AM - 11:00 PM, y en la siguiente imagen podrás encontrar un mapa con nuestra ubicación: 
 
-
+![alt text](https://github.com/devnull404/inventory/blob/main/assets/map.png)
 
 ## Arquitectura del POS propuesto
 El sistema de Punto de Venta propuesto consta de 5 partes, estas son:
